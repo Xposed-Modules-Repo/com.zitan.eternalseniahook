@@ -13,3 +13,5 @@
 目前已知问题：联合搜索时间过长，联合搜索经常性触发崩溃（所以不建议使用联合搜索）
 # 项目地址
 https://github.com/ZiTanIOI/EternalseniaMod
+
+已经过作者同意上传到此
